@@ -1,0 +1,6 @@
+Softa
+- R/R-Studio
+- node.js
+- python
+- mongodb
+- Thingspeak

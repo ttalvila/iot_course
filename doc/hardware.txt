@@ -1,0 +1,4 @@
+Hardware:
+- läppäri ensi alkuun
+- Raspberry Pi 3, johon liitetty antureita (sameus, johtokyky)
+- 
